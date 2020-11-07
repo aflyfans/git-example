@@ -1,0 +1,64 @@
+Delphi Programming - Full Beginner Crash Course
+
+3. Comment - 33:10
+   Ctrl + "/" will put "//" on form
+   {} or (* *) are both comment
+   
+4. Images - 36:06
+5. Changing Attribute - 37:35
+6. Basic Output - 47:40
+7. Mathmatical Operation - 54:30
+8. Basic Input - 1:00:09
+9. Setting Calendar Date - 1:03.56
+	Tsplnedit 
+	TCalendar
+	TMonthCalendar (Show YYYYMMDD)
+	
+10. Coding a Traffic Light - 1:14:12
+11. Variables - 1:22:17
+
+16. Constant
+
+17. Input Proccess Output (IPO) - 2:08:09
+18. Buidling a Voting System - 2:10:57
+19. More Operator
+20. If ... In
+21. Checkboxes - 2:33:00
+22. Radio Buttons/Groups - 2:45:33
+23. Case Statements - 2:52:00
+24. Case Lists - 3:03:45
+25. For Loos - 3:06.48
+26. Looping through a string - 3:10:06
+
+28. Timer 3:15
+29. Using val() to validate - 3:38
+30,31. Reading from a text file - 3:43:46
+32. Writing to a text file - 4:07:51
+33. Custom Columns - 4:17:21
+		introducing Tab (#9) and Enter(#13) usage
+		ex.
+		  memo1.paragraph.Tab[0] 
+		  
+34. What is an Array - 4:24.21 (just introduction only)
+35. Creating an Array - 4:30:34
+36. Searching an Array  4:37:15
+37. Constants - 4:47
+38. Procedures and Functions - 4:53:22
+
+--- Database ---
+39. What is a database?
+40. Connecting to a database - 5:17:19
+		-ADO demo
+41. DBNavigator - 5:27:25
+42. Inserting data into a DB - 5:30:17
+43. Editing a data in a DB - 5:39:05
+44. Deleting a data in a DB - 5:49:23
+45. Filtering a DB - 5:56:40
+46. Calculations with databases - 6:07:25
+47. Sorting a DB - 6:12:50
+48. Searching a DB - 6:15:50
+49. Working with multiple forms - 6:21:20
+--- Database End ---
+
+50. Bubble sorting array - 6:32:30
+51. Text to speach - 6:54:46

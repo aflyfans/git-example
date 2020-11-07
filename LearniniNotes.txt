@@ -1,0 +1,36 @@
+Delphi
+p320 (Iterface Properties)
+
+iOS Apps for masterminds
+p156
+
+Programming iOS 12
+p29
+
+iOS development with swift 
+p142
+
+MacOS Programming for absolute beginner
+Chapter11
+
+Beginning iPhone development with swift5 
+P 213 (Using a text view /chapter9)
+
+
+Learning Pi
+p225
+
+Professional Android 
+p 53
+
+Ubuntu Unleashed
+p 265
+
+Effective Awk
+p 15
+
+Current location
+Your IP address:	61.230.47.180
+Latitude: 	25.04776°
+Longitude: 	121.53185°
+Magnetic decl.: 	4° 44' W
